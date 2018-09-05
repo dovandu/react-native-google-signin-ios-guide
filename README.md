@@ -3,7 +3,7 @@
 ## Step1 : 
 
 <p align="left">
-  <img src="https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/Screen%20Shot%202018-09-05%20at%2010.41.08%20AM.png">
+  <img src="https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/Screen%20Shot%202018-09-05%20at%209.42.27%20AM.png">
 </p>
 
 ## Step2 : 
@@ -104,8 +104,4 @@
   <img src="https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/Screen%20Shot%202018-09-05%20at%2011.12.21%20AM.png">
 </p>
 
-## Step18 : 
 
-<p align="left">
-  <img src="https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/Screen%20Shot%202018-09-05%20at%209.42.27%20AM.png">
-</p>
