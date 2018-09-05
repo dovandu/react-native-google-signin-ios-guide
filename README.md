@@ -105,3 +105,10 @@
 </p>
 
 
+## Step18 : 
+- Info.plist: 
+- AppDelegate.m
+
+
+
+
