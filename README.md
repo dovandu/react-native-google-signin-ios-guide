@@ -106,8 +106,8 @@
 
 
 ## Step18 : 
-- Info.plist: 
-- AppDelegate.m
+- Info.plist: https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/Info.plist
+- AppDelegate.m: https://github.com/dovandu/react-native-google-signin-ios-guide/blob/master/AppDelegate.m
 
 
 
